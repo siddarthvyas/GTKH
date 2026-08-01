@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Presently</string>
+    <string name="app_name" translatable="false">GTKH</string>
     <string name="key_faq" translatable="false">faq</string>
     <string name="key_share_app" translatable="false">share_app</string>
     <string name="key_privacy_policy" translatable="false">privacy_policy</string>

@@ -5,15 +5,15 @@
     <string name="what_are_you_thankful_for_yesterday">What were you grateful for yesterday?</string>
     <string name="notification_settings">Settings</string>
     <string name="privacy_policy">Privacy Policy</string>
-    <string name="share_presently">Share Presently</string>
-    <string name="enjoying_presently">Enjoying Presently? Share the app with your friends and family</string>
-    <string name="read_privacy">Read Presently\'s privacy policy</string>
+    <string name="share_GTKH">Share GTKH</string>
+    <string name="enjoying_GTKH">Enjoying GTKH? Share the app with your friends and family</string>
+    <string name="read_privacy">Read GTKH\'s privacy policy</string>
     <string name="faq">FAQ</string>
-    <string name="read_faq">Read Presently\'s frequently asked questions</string>
+    <string name="read_faq">Read GTKH\'s frequently asked questions</string>
     <string name="contact_us">Contact Us</string>
     <string name="terms_conditions">Terms &amp; Conditions</string>
     <string name="read_tc">Read our terms &amp; conditions</string>
-    <string name="channel_name">Presently Reminder</string>
+    <string name="channel_name">GTKH Reminder</string>
     <string name="channel_description">Daily reminders to note what you\'re grateful for</string>
     <string name="today">Today</string>
     <string name="yesterday">Yesterday</string>
@@ -31,19 +31,19 @@
     <string name="import_data_dialog_message">Imported data could overwrite existing entries.</string>
     <string name="days_of_gratitude">days of gratitude!</string>
     <string name="days_of">days of gratitude</string>
-    <string name="rate_presently">Rate Presently</string>
+    <string name="rate_GTKH">Rate GTKH</string>
     <string name="share_your_achievement">Share your achievement</string>
-    <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-        Congratulations! We\'re so proud of you and so grateful you chose Presently to record your gratitude.
+    <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_GTKH_to_record_your_gratitude">
+        Congratulations! We\'re so proud of you and so grateful you chose GTKH to record your gratitude.
     </string>
     <string name="search">Search</string>
-    <string name="presently" translatable="false">Presently</string>
+    <string name="GTKH" translatable="false">GTKH</string>
     <string name="close">Close</string>
     <string name="get_a_new_prompt">Get a prompt</string>
     <string name="share_your_gratitude">Share your gratitude</string>
     <string name="no_results">No results</string>
     <string name="settings">Settings</string>
-    <string name="reminder_title">Presently Gratitude Reminder</string>
+    <string name="reminder_title">GTKH Gratitude Reminder</string>
     <string name="share_progress">Share your gratitude progress</string>
     <string name="change_time">Change your daily reminder time</string>
     <string name="time_title">Adjust Reminder Notifications</string>
@@ -65,10 +65,10 @@
     <string name="no_app_found">No app found to open this file</string>
     <string name="copied">Copied to clipboard</string>
     <string name="security">Security</string>
-    <string name="lock_title">Unlock Presently</string>
-    <string name="lock_summary">Presently is locked, unlock to continue</string>
-    <string name="lock_setting_summary_on">Presently will lock with your device\'s biometric scanner.</string>
-    <string name="lock_setting_summary_off">Presently can lock with your device\'s biometric scanner (if supported by device).</string>
+    <string name="lock_title">Unlock GTKH</string>
+    <string name="lock_summary">GTKH is locked, unlock to continue</string>
+    <string name="lock_setting_summary_on">GTKH will lock with your device\'s biometric scanner.</string>
+    <string name="lock_setting_summary_off">GTKH can lock with your device\'s biometric scanner (if supported by device).</string>
     <string name="fingerprint_error_lockout_too_many">Too many biometric authentication attempts. Please try again in a few minutes.</string>
     <string name="continue_to_exit">Continue</string>
     <string name="are_you_sure">Are you sure you want to go back?</string>
@@ -96,7 +96,7 @@
     <string name="monday">Monday</string>
     <string name="day_of_week_summary">Set the first day of the week in the calendar view</string>
     <string name="first_day_of_week_title">First day of the week</string>
-    <string name="share_milestone">I completed %1$d days of gratitude journaling! Join me using the Presently App. #PresentlyApp</string>
+    <string name="share_milestone">I completed %1$d days of gratitude journaling! Join me using the GTKH App. #GTKHApp</string>
     <string name="share_app_text">Practice gratitude with this simple, always free, and private gratitude journaling app</string>
     <string name="app_language_title">Application language</string>
     <string name="app_language_summary">Set default app language</string>
@@ -107,14 +107,14 @@
     <string name="alarm_disabled_title">Notifications have been disabled at the system level</string>
     <string name="alarm_disabled_body">Click here to enable in system settings</string>
     <string name="analytics_opt_out_title">Analytics data collection</string>
-    <string name="analytics_opted_in_desc">Presently is collecting anonymized, encrypted analytics information to help diagnose problems and monitor trends</string>
-    <string name="analytics_opted_out_desc">Presently is not collecting any analytics information</string>
+    <string name="analytics_opted_in_desc">GTKH is collecting anonymized, encrypted analytics information to help diagnose problems and monitor trends</string>
+    <string name="analytics_opted_out_desc">GTKH is not collecting any analytics information</string>
     <string name="analytics_opt_out_success">Analytics data is deleted and no longer recorded!</string>
     <string name="analytics_opt_in_success">Analytics data is being recorded again!</string>
-    <string name="backup_channel_name">Presently Automatic Backup Issues</string>
+    <string name="backup_channel_name">GTKH Automatic Backup Issues</string>
     <string name="backup_channel_description">Notifications for issues with automatic backup</string>
-    <string name="backup_failure_notif_header">Presently Automatic Backup Failure</string>
-    <string name="dropbox_too_full_notif_body">Presently failed to backup your data because your Dropbox is full. Tap to view your Dropbox account.</string>
+    <string name="backup_failure_notif_header">GTKH Automatic Backup Failure</string>
+    <string name="dropbox_too_full_notif_body">GTKH failed to backup your data because your Dropbox is full. Tap to view your Dropbox account.</string>
     <string name="dropbox_sync_error_notif_body">There was a problem with your Dropbox account, click here to reconnect to Dropbox to resume automatic backups.</string>
     <string name="learn_more">Learn more</string>
 </resources>

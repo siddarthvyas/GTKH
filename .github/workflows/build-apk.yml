@@ -1,0 +1,43 @@
+name: Build GTKH APK
+
+on:
+  push:
+    branches: [develop]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '11'
+
+      - name: Build debug APK
+        run: |
+          chmod +x gradlew
+          ./gradlew :app:assembleDebug --no-daemon --stacktrace
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: GTKH-debug-apk
+          path: app/build/outputs/apk/debug/*.apk
+
+      - name: Attach APK to a GitHub Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          APK=$(ls app/build/outputs/apk/debug/*.apk | head -n 1)
+          cp "$APK" GTKH.apk
+          TAG="build-${{ github.run_number }}"
+          gh release create "$TAG" GTKH.apk \
+            --title "GTKH build ${{ github.run_number }}" \
+            --notes "Installable debug build of GTKH. Download GTKH.apk on your Android phone and open it to install." \
+            --latest

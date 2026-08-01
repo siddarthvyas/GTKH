@@ -18,7 +18,7 @@ android {
     compileSdk = Versions.COMPILE_SDK
 
     defaultConfig {
-        applicationId = "journal.gratitude.com.gratitudejournal"
+        applicationId = "com.siddarthvyas.gtkh"
         minSdk = Versions.MIN_SDK
         targetSdk = Versions.TARGET_SDK
         versionCode = Versions.APP_VERSION_CODE
