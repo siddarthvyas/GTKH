@@ -5,8 +5,8 @@
     <string name="what_are_you_thankful_for_yesterday">What were you grateful for yesterday?</string>
     <string name="notification_settings">Settings</string>
     <string name="privacy_policy">Privacy Policy</string>
-    <string name="share_GTKH">Share GTKH</string>
-    <string name="enjoying_GTKH">Enjoying GTKH? Share the app with your friends and family</string>
+    <string name="share_presently">Share GTKH</string>
+    <string name="enjoying_presently">Enjoying GTKH? Share the app with your friends and family</string>
     <string name="read_privacy">Read GTKH\'s privacy policy</string>
     <string name="faq">FAQ</string>
     <string name="read_faq">Read GTKH\'s frequently asked questions</string>
@@ -31,13 +31,13 @@
     <string name="import_data_dialog_message">Imported data could overwrite existing entries.</string>
     <string name="days_of_gratitude">days of gratitude!</string>
     <string name="days_of">days of gratitude</string>
-    <string name="rate_GTKH">Rate GTKH</string>
+    <string name="rate_presently">Rate GTKH</string>
     <string name="share_your_achievement">Share your achievement</string>
-    <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_GTKH_to_record_your_gratitude">
+    <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
         Congratulations! We\'re so proud of you and so grateful you chose GTKH to record your gratitude.
     </string>
     <string name="search">Search</string>
-    <string name="GTKH" translatable="false">GTKH</string>
+    <string name="presently" translatable="false">GTKH</string>
     <string name="close">Close</string>
     <string name="get_a_new_prompt">Get a prompt</string>
     <string name="share_your_gratitude">Share your gratitude</string>
