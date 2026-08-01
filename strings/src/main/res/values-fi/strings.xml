@@ -5,13 +5,13 @@
     <string name="what_are_you_thankful_for_yesterday">Miksi olit kiitollinen eilen?</string>
     <string name="notification_settings">Ilmoitusasetukset</string>
     <string name="privacy_policy">Tietosuojakäytäntö</string>
-    <string name="read_privacy">Näytä Presentlyhin tietosuojakäytännöt</string>
+    <string name="read_privacy">Näytä GTKHhin tietosuojakäytännöt</string>
     <string name="faq">UKK-kysymykset</string>
-    <string name="read_faq">Lue Presentlyhin UKK-kysymykset</string>
+    <string name="read_faq">Lue GTKHhin UKK-kysymykset</string>
     <string name="contact_us">Ota meihin yhteyttä</string>
     <string name="terms_conditions">Käyttöehdot</string>
     <string name="read_tc">Lue käyttöehdot</string>
-    <string name="channel_name">Presently Muistutus</string>
+    <string name="channel_name">GTKH Muistutus</string>
     <string name="channel_description">Päivittäiset muistutukset siitä, miksi olet kiitollinen</string>
     <string name="today">Tänään</string>
     <string name="yesterday">Eilen</string>
@@ -29,10 +29,10 @@
     <string name="import_data_dialog_message">Tuodut tiedot voi korvaavat kirjoitetut merkinnät</string>
     <string name="days_of_gratitude">päivää kiitollisuutta!</string>
     <string name="days_of">päivää kiitollisuutta</string>
-    <string name="rate_presently">Arvostele Presently</string>
+    <string name="rate_presently">Arvostele GTKH</string>
     <string name="share_your_achievement">Jaa saavutuksesi</string>
     <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-    Kiitos, olemme ylpeitä sinusta ja erittäin kiitollinen siitä, että valitsit Presently!n
+    Kiitos, olemme ylpeitä sinusta ja erittäin kiitollinen siitä, että valitsit GTKH!n
     </string>
     <string name="search">Hae</string>
     <string name="close">Sulkea</string>
@@ -40,7 +40,7 @@
     <string name="share_your_gratitude">Jaa kiitollisuuttasi</string>
     <string name="no_results">Ei tuloksia</string>
     <string name="settings">Asetukset</string>
-    <string name="reminder_title">Presently Kiitollisuusmuistutus</string>
+    <string name="reminder_title">GTKH Kiitollisuusmuistutus</string>
     <string name="share_progress">Jaa kiitollisuutesi edistymisestä</string>
     <string name="change_time">Vaihda päivittäinen muistutusaika</string>
     <string name="time_title">Muuta muistutusilmoituksia</string>
@@ -61,10 +61,10 @@
     <string name="permission_export">Tietojen vientiä varten tarvitaan lupa</string>
     <string name="copied">Kopioitiin leikepöydälle</string>
     <string name="security">Turvallisuus</string>
-    <string name="lock_title">Avaa Presently</string>
-    <string name="lock_summary">Presently on lukittu, avaa jatkaaksesi</string>
-    <string name="lock_setting_summary_on">Presently lukittuu laitteen biometrisen skannerin kanssa.</string>
-    <string name="lock_setting_summary_off">Presently voi lukita laitteen biometrisellä skannerilla (jos laite tukee sitä).</string>
+    <string name="lock_title">Avaa GTKH</string>
+    <string name="lock_summary">GTKH on lukittu, avaa jatkaaksesi</string>
+    <string name="lock_setting_summary_on">GTKH lukittuu laitteen biometrisen skannerin kanssa.</string>
+    <string name="lock_setting_summary_off">GTKH voi lukita laitteen biometrisellä skannerilla (jos laite tukee sitä).</string>
     <string name="fingerprint_error_lockout_too_many">Liian monta biometristä todennusyritystä. Yritä uudelleen muutamassa minuutissa.</string>
     <string name="are_you_sure">Haluatko varmasti palata takaisin?</string>
     <string name="unsaved_text">Merkintääsi ei tallenneta ja muutokset menetetään!</string>
@@ -91,8 +91,8 @@
     <string name="monday">maanantai</string>
     <string name="day_of_week_summary">Aseta viikon ensimmäinen päivä kalenterinäkymässä</string>
     <string name="first_day_of_week_title">Viikon ensimmäinen päivä</string>
-    <string name="share_milestone">Olen valmistunut %1$d päivä kiitollisuutta kirjaaminen! Join me käyttäen Presently App. #PresentlyApp</string>
-    <string name="share_presently">Jaa Presently</string>
+    <string name="share_milestone">Olen valmistunut %1$d päivä kiitollisuutta kirjaaminen! Join me käyttäen GTKH App. #GTKHApp</string>
+    <string name="share_presently">Jaa GTKH</string>
     <string name="enjoying_presently">Nautitko sovelluksesta? Jaa sovellus ystävien ja perheen kanssa</string>
     <string name="share_app_text">Käytännössä kiitollisuutta tämä yksinkertainen, aina vapaa, ja oma kiitollisuus päiväkirjaa sovellus</string>
     <string name="random">satunnainen</string>
@@ -109,7 +109,7 @@
     <string name="analytics_opted_out_desc">Sovellus ei kerää analytiikkatietoja</string>
     <string name="analytics_opt_out_success">Analytics-tiedot poistetaan, eikä niitä enää tallenneta!</string>
     <string name="analytics_opt_in_success">Analyysitietoja tallennetaan jälleen!</string>
-    <string name="backup_channel_name">Presentlyhin automaattisen varmuuskopioinnin ongelmat</string>
+    <string name="backup_channel_name">GTKHhin automaattisen varmuuskopioinnin ongelmat</string>
     <string name="backup_channel_description">Ilmoitukset automaattisen varmuuskopioinnin ongelmista</string>
     <string name="backup_failure_notif_header">Presentlhin automaattinen varmuuskopiointivirhe</string>
     <string name="dropbox_too_full_notif_body">Presentlhin ei pystynyt varmuuskopioimaan tietojasi, koska Dropboxisi on täynnä. Napauta nähdäksesi Dropbox-tilisi</string>

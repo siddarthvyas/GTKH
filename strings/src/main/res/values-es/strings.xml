@@ -6,13 +6,13 @@
     <string name="what_are_you_thankful_for_yesterday">¿Por qué diste las gracias ayer?</string>
     <string name="notification_settings">Ajustes</string>
     <string name="privacy_policy">Política de privacidad</string>
-    <string name="read_privacy">Leer la política de privacidad de Presently</string>
+    <string name="read_privacy">Leer la política de privacidad de GTKH</string>
     <string name="faq">Preguntas más frecuentes</string>
-    <string name="read_faq">Leer las preguntas más frecuentes acerca de Presently</string>
+    <string name="read_faq">Leer las preguntas más frecuentes acerca de GTKH</string>
     <string name="contact_us">Contacto</string>
     <string name="terms_conditions">Términos y condiciones</string>
     <string name="read_tc">Leer nuestros términos y condiciones</string>
-    <string name="channel_name">Recordatorio de Presently</string>
+    <string name="channel_name">Recordatorio de GTKH</string>
     <string name="channel_description">Recordatorios diarios para anotar las cosas que agradeces</string>
     <string name="today">Hoy</string>
     <string name="yesterday">Ayer</string>
@@ -30,10 +30,10 @@
     <string name="import_data_dialog_message">Los datos importados pueden sobreescribir las entradas existentes.</string>
     <string name="days_of_gratitude">días de gratitud!</string>
     <string name="days_of">días de gratitud</string>
-    <string name="rate_presently">Puntuar Presently</string>
+    <string name="rate_presently">Puntuar GTKH</string>
     <string name="share_your_achievement">Compartir tu logro</string>
     <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-        ¡Felicitaciones! Estamos orgullosos y agradecidos de que hayas elegido Presently para registrar tu gratitud.
+        ¡Felicitaciones! Estamos orgullosos y agradecidos de que hayas elegido GTKH para registrar tu gratitud.
     </string>
     <string name="search">Buscar</string>
     <string name="close">Cerrar</string>
@@ -41,11 +41,11 @@
     <string name="share_your_gratitude">Compartir tu gratitud</string>
     <string name="no_results">No hay resultados</string>
     <string name="settings">Ajustes</string>
-    <string name="reminder_title">Recordatorio de gratitud de Presently</string>
+    <string name="reminder_title">Recordatorio de gratitud de GTKH</string>
     <string name="share_progress">Compartir tu progreso de gratitud</string>
     <string name="change_time">Cambiar la hora de tu recordatorio diario</string>
     <string name="time_title">Ajustar notificaciones de recordatorio</string>
-    <string name="theme_change">Cambiar el tema de Presently</string>
+    <string name="theme_change">Cambiar el tema de GTKH</string>
     <string name="notifs_off">Las notificaciones de recordatorios diarios están desactivadas</string>
     <string name="notifs_on">Las notificaciones de recordatorios diarios están activadas</string>
     <string name="notifs">Notificaciones de recordatorios diarios</string>
@@ -62,10 +62,10 @@
     <string name="permission_export">Se necesita permiso para exportar datos</string>
     <string name="copied">Copiado al portapapeles</string>
     <string name="security">Seguridad</string>
-    <string name="lock_title">Desbloquee Presently</string>
-    <string name="lock_summary">Presently está bloqueada, desbloquea para continuar</string>
-    <string name="lock_setting_summary_on">Presently se bloqueará con el escáner biométrico de su dispositivo.</string>
-    <string name="lock_setting_summary_off">Presently puede bloquear con el escáner biométrico de su dispositivo (si es compatible con el dispositivo).</string>
+    <string name="lock_title">Desbloquee GTKH</string>
+    <string name="lock_summary">GTKH está bloqueada, desbloquea para continuar</string>
+    <string name="lock_setting_summary_on">GTKH se bloqueará con el escáner biométrico de su dispositivo.</string>
+    <string name="lock_setting_summary_off">GTKH puede bloquear con el escáner biométrico de su dispositivo (si es compatible con el dispositivo).</string>
     <string name="fingerprint_error_lockout_too_many">Demasiados intentos de autenticación biométrica. Por favor intente nuevamente en unos minutos.</string>
     <string name="are_you_sure">¿Estás seguro de que quieres volver?</string>
     <string name="unsaved_text">¡Su entrada no se guarda y sus cambios se perderán!</string>
@@ -92,8 +92,8 @@
     <string name="monday">lunes</string>
     <string name="day_of_week_summary">Establecer el primer día de la semana en la vista de calendario</string>
     <string name="first_day_of_week_title">Primer día de la semana</string>
-    <string name="share_milestone">He completado %1$d días de diario gratitud! Unirse a mí usando Presently. #PresentlyApp</string>
-    <string name="share_presently">Presently compartir</string>
+    <string name="share_milestone">He completado %1$d días de diario gratitud! Unirse a mí usando GTKH. #GTKHApp</string>
+    <string name="share_presently">GTKH compartir</string>
     <string name="enjoying_presently">¿Disfrutas de la aplicación? Comparte la aplicación con tus amigos y familiares.</string>
     <string name="share_app_text">Gratitud de la práctica con este sencillo, siempre libre, y gratitud privada de aplicaciones en diario</string>
     <string name="random">Aleatorio</string>
@@ -106,14 +106,14 @@
     <string name="alarm_disabled_title">Las notificaciones se han deshabilitado a nivel del sistema</string>
     <string name="alarm_disabled_body">Haga clic aquí para habilitar en la configuración del sistema</string>
     <string name="analytics_opt_out_title">Recopilación de datos analíticos</string>
-    <string name="analytics_opted_in_desc">Presently recopila información analítica anónima y cifrada para ayudar a diagnosticar problemas y monitorear tendencias</string>
-    <string name="analytics_opted_out_desc">Presently no recopila información analítica.</string>
+    <string name="analytics_opted_in_desc">GTKH recopila información analítica anónima y cifrada para ayudar a diagnosticar problemas y monitorear tendencias</string>
+    <string name="analytics_opted_out_desc">GTKH no recopila información analítica.</string>
     <string name="analytics_opt_out_success">¡Los datos de análisis se eliminan y ya no se registran!</string>
     <string name="analytics_opt_in_success">¡Los datos analíticos se están registrando de nuevo!</string>
-    <string name="backup_channel_name">Problemas de copia de seguridad automática de Presently</string>
+    <string name="backup_channel_name">Problemas de copia de seguridad automática de GTKH</string>
     <string name="backup_channel_description">Notificaciones de problemas con la copia de respaldo automático</string>
-    <string name="backup_failure_notif_header">Fallo de copia de respaldo automático de Presently</string>
-    <string name="dropbox_too_full_notif_body">Presently no pudo hacer una copia de respaldo de sus datos porque su Dropbox está lleno. Toque para ver su cuenta de Dropbox</string>
+    <string name="backup_failure_notif_header">Fallo de copia de respaldo automático de GTKH</string>
+    <string name="dropbox_too_full_notif_body">GTKH no pudo hacer una copia de respaldo de sus datos porque su Dropbox está lleno. Toque para ver su cuenta de Dropbox</string>
     <string name="dropbox_sync_error_notif_body">Hubo un problema con su cuenta de Dropbox, haga clic aquí para volver a conectarse a Dropbox y reanudar las copias de respaldo automáticos.</string>
     <string name="learn_more">Aprende más</string>
 </resources>

@@ -7,11 +7,11 @@
     <string name="privacy_policy">Informativa sulla privacy</string>
     <string name="read_privacy">Leggi la nostra informativa sulla privacy (in inglese)</string>
     <string name="faq">FAQ</string>
-    <string name="read_faq">Leggi le domande più frequenti su Presently (in inglese)</string>
+    <string name="read_faq">Leggi le domande più frequenti su GTKH (in inglese)</string>
     <string name="contact_us">Contattaci</string>
     <string name="terms_conditions">Termini e condizioni</string>
     <string name="read_tc">Consulta i termini e le condizioni</string>
-    <string name="channel_name">Avvisi di Presently</string>
+    <string name="channel_name">Avvisi di GTKH</string>
     <string name="channel_description">Ricordami di scrivere per cosa sono riconoscente ogni giorno.</string>
     <string name="today">Oggi</string>
     <string name="yesterday">Ieri</string>
@@ -32,7 +32,7 @@
     <string name="rate_presently">Scrivi una recensione</string>
     <string name="share_your_achievement">Condividi i tuoi progressi</string>
     <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-        Congratulazioni, siamo felici che tu abbia scelto Presently per tenere il tuo diario, e ti ringraziamo.
+        Congratulazioni, siamo felici che tu abbia scelto GTKH per tenere il tuo diario, e ti ringraziamo.
     </string>
     <string name="search">Cerca</string>
     <string name="close">Chiudi</string>
@@ -40,11 +40,11 @@
     <string name="share_your_gratitude">Condividi la tua gratitudine</string>
     <string name="no_results">Nessun risultato</string>
     <string name="settings">Impostazioni</string>
-    <string name="reminder_title">Promemoria di Presently</string>
+    <string name="reminder_title">Promemoria di GTKH</string>
     <string name="share_progress">Condividi i tuoi risultati</string>
     <string name="change_time">Modifica l\'orario del promemoria</string>
     <string name="time_title">Modifica il promemoria</string>
-    <string name="theme_change">Cambia l\'aspetto di Presently</string>
+    <string name="theme_change">Cambia l\'aspetto di GTKH</string>
     <string name="notifs_off">Il promemoria giornaliero non è attivo</string>
     <string name="notifs_on">Il promemoria giornaliero è attivo</string>
     <string name="notifs">Promemoria giornaliero</string>
@@ -61,10 +61,10 @@
     <string name="permission_export">È necessaria l\'autorizzazione per esportare i dati</string>
     <string name="copied">Copiato negli appunti</string>
     <string name="security">Sicurezza</string>
-    <string name="lock_title">Sblocca Presently</string>
-    <string name="lock_summary">Presently è bloccata, sbloccare per continuare</string>
-    <string name="lock_setting_summary_on">Presently si bloccherà con lo scanner biometrico del dispositivo.</string>
-    <string name="lock_setting_summary_off">Presently può bloccarsi con lo scanner biometrico del dispositivo (se supportato dal dispositivo).</string>
+    <string name="lock_title">Sblocca GTKH</string>
+    <string name="lock_summary">GTKH è bloccata, sbloccare per continuare</string>
+    <string name="lock_setting_summary_on">GTKH si bloccherà con lo scanner biometrico del dispositivo.</string>
+    <string name="lock_setting_summary_off">GTKH può bloccarsi con lo scanner biometrico del dispositivo (se supportato dal dispositivo).</string>
     <string name="are_you_sure">Sei sicuro di voler tornare indietro?</string>
     <string name="unsaved_text">La tua voce non viene salvata e le tue modifiche andranno perse!</string>
     <string name="continue_to_exit">Continuare</string>
@@ -91,8 +91,8 @@
     <string name="monday">Lunedi</string>
     <string name="day_of_week_summary">Imposta il primo giorno della settimana nella vista del calendario</string>
     <string name="first_day_of_week_title">Primo giorno della settimana</string>
-    <string name="share_milestone">Ho completato %1$d giorni di gratitudine nel diario! Unitevi a me usando il Presently App. #PresentlyApp</string>
-    <string name="share_presently">Condividi Presently</string>
+    <string name="share_milestone">Ho completato %1$d giorni di gratitudine nel diario! Unitevi a me usando il GTKH App. #GTKHApp</string>
+    <string name="share_presently">Condividi GTKH</string>
     <string name="enjoying_presently">Ti piace l\'app? Condividi l\'app con i tuoi amici e familiari</string>
     <string name="share_app_text">Pratica gratitudine con questo semplice, sempre libero, e la gratitudine privato nel diario app</string>
     <string name="random">Casuale</string>
@@ -109,10 +109,10 @@
     <string name="analytics_opted_out_desc">L\'app non raccoglie informazioni analitiche</string>
     <string name="analytics_opt_out_success">I dati analitici vengono cancellati e non più registrati!</string>
     <string name="analytics_opt_in_success">I dati di analisi vengono nuovamente registrati!</string>
-    <string name="backup_channel_name">Problemi di backup automatico di Presently</string>
+    <string name="backup_channel_name">Problemi di backup automatico di GTKH</string>
     <string name="backup_channel_description">Notifiche per problemi con il backup automatico</string>
-    <string name="backup_failure_notif_header">Errore di backup automatico di Presently</string>
-    <string name="dropbox_too_full_notif_body">Presently non è riuscita a eseguire il backup dei tuoi dati perché il tuo Dropbox è pieno. Tocca per visualizzare il tuo account Dropbox</string>
+    <string name="backup_failure_notif_header">Errore di backup automatico di GTKH</string>
+    <string name="dropbox_too_full_notif_body">GTKH non è riuscita a eseguire il backup dei tuoi dati perché il tuo Dropbox è pieno. Tocca per visualizzare il tuo account Dropbox</string>
     <string name="dropbox_sync_error_notif_body">Si è verificato un problema con il tuo account Dropbox, fai clic qui per riconnetterti a Dropbox e riprendere i backup automatici.</string>
     <string name="learn_more">Scopri di più</string>
 </resources>

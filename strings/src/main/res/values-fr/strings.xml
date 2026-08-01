@@ -5,13 +5,13 @@
     <string name="what_are_you_thankful_for_yesterday">Qu\'est-ce qui vous a fait vivre de la reconnaissance hier?</string>
     <string name="notification_settings">Paramètres</string>
     <string name="privacy_policy">Politique de respect de la vie privée</string>
-    <string name="read_privacy">Lire la politique de respect de la vie privée de Presently</string>
+    <string name="read_privacy">Lire la politique de respect de la vie privée de GTKH</string>
     <string name="faq">FAQ</string>
-    <string name="read_faq">Lire la Foire Aux Questions de Presently</string>
+    <string name="read_faq">Lire la Foire Aux Questions de GTKH</string>
     <string name="contact_us">Nous contacter</string>
     <string name="terms_conditions">Conditions d\'utilisation</string>
     <string name="read_tc">Lire nos conditions d\'utilisation</string>
-    <string name="channel_name">Rappels de Presently</string>
+    <string name="channel_name">Rappels de GTKH</string>
     <string name="channel_description">Un rappel quotidien pour penser à noter ce qui vous emplit de gratitude</string>
     <string name="today">Aujourd\'hui</string>
     <string name="yesterday">Hier</string>
@@ -29,10 +29,10 @@
     <string name="import_data_dialog_message">L\'importation des enregistrements sauvegardés peut écraser vos enregistrements existants.</string>
     <string name="days_of_gratitude">jours de gratitude!</string>
     <string name="days_of">jours de gratitude</string>
-    <string name="rate_presently">Évaluer Presently</string>
+    <string name="rate_presently">Évaluer GTKH</string>
     <string name="share_your_achievement">Partager vos progrès</string>
     <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-        Félicitations! Nous sommes très fiers de vous et très reconnaissants que vous ayez choisi Presently pour tenir votre journal de gratitude.
+        Félicitations! Nous sommes très fiers de vous et très reconnaissants que vous ayez choisi GTKH pour tenir votre journal de gratitude.
     </string>
     <string name="search">Rechercher</string>
     <string name="close">Fermer</string>
@@ -40,17 +40,17 @@
     <string name="share_your_gratitude">Partager votre gratitude</string>
     <string name="no_results">Aucun résultat</string>
     <string name="settings">Paramètres</string>
-    <string name="reminder_title">Me rappeler de remplir mon journal de gratitude Presently</string>
+    <string name="reminder_title">Me rappeler de remplir mon journal de gratitude GTKH</string>
     <string name="share_progress">Partager mes progrès sur le chemin de la gratitude</string>
     <string name="change_time">Modifier l\'heure du rappel</string>
     <string name="time_title">Régler les notifications du rappel</string>
-    <string name="theme_change">Modifier le thème visuel de Presently</string>
+    <string name="theme_change">Modifier le thème visuel de GTKH</string>
     <string name="notifs_off">Les rappels sont désactivés</string>
     <string name="notifs_on">Les rappels sont activés</string>
     <string name="notifs">Rappels quotidiens d\'enregistrement de gratitude</string>
     <string name="notifs_name">Notifications</string>
     <string name="appearance">Apparence</string>
-    <string name="about">À propos de Presently</string>
+    <string name="about">À propos de GTKH</string>
     <string name="select_a_theme">Choisir un thème visuel</string>
     <string name="theme">Thème visuel</string>
     <string name="open_source">Licences Open Source</string>
@@ -61,10 +61,10 @@
     <string name="permission_export">Une autorisation est nécessaire pour exporter des données</string>
     <string name="copied">Copié dans le presse-papier</string>
     <string name="security">Déverrouillage</string>
-    <string name="lock_title">Déverrouiller Presently</string>
-    <string name="lock_summary">Presently est verrouillée, déverrouillez pour continuer</string>
-    <string name="lock_setting_summary_on">Presently se verrouillera avec le scanner biométrique de votre appareil.</string>
-    <string name="lock_setting_summary_off">Presently peut se verrouiller avec le scanner biométrique de votre appareil (si pris en charge par l\'appareil).</string>
+    <string name="lock_title">Déverrouiller GTKH</string>
+    <string name="lock_summary">GTKH est verrouillée, déverrouillez pour continuer</string>
+    <string name="lock_setting_summary_on">GTKH se verrouillera avec le scanner biométrique de votre appareil.</string>
+    <string name="lock_setting_summary_off">GTKH peut se verrouiller avec le scanner biométrique de votre appareil (si pris en charge par l\'appareil).</string>
     <string name="are_you_sure">Voulez-vous vraiment revenir en arrière?</string>
     <string name="unsaved_text">Votre entrée n\'est pas enregistrée et vos modifications seront perdues!</string>
     <string name="fingerprint_error_lockout_too_many">Trop de tentatives d\'authentification biométrique. S\'il vous plait, réessayez dans quelques minutes.</string>
@@ -91,8 +91,8 @@
     <string name="monday">Lundi</string>
     <string name="day_of_week_summary">Définir le premier jour de la semaine dans la vue du calendrier</string>
     <string name="first_day_of_week_title">Premier jour de la semaine</string>
-    <string name="share_milestone">J\'ai terminé %1$d jours de journaling de gratitude! Rejoignez-moi en utilisant l\'application Presently. #PresentlyApp</string>
-    <string name="share_presently">Partager Presently</string>
+    <string name="share_milestone">J\'ai terminé %1$d jours de journaling de gratitude! Rejoignez-moi en utilisant l\'application GTKH. #GTKHApp</string>
+    <string name="share_presently">Partager GTKH</string>
     <string name="enjoying_presently">Profiter du moment? Partagez l\'application avec vos amis et votre famille</string>
     <string name="share_app_text">reconnaissance de la pratique avec ce simple, toujours libre, et la reconnaissance privée app journaling</string>
     <string name="random">Aléatoire</string>
@@ -105,14 +105,14 @@
     <string name="alarm_disabled_title">Les notifications ont été désactivées au niveau du système</string>
     <string name="alarm_disabled_body">Cliquez ici pour activer dans les paramètres système</string>
     <string name="analytics_opt_out_title">Collecte de données analytiques</string>
-    <string name="analytics_opted_in_desc">Presently collecte des informations d\'analyse cryptées et anonymes pour aider à diagnostiquer les problèmes et surveiller les tendances</string>
-    <string name="analytics_opted_out_desc">Presently ne collecte aucune information d\'analysen</string>
+    <string name="analytics_opted_in_desc">GTKH collecte des informations d\'analyse cryptées et anonymes pour aider à diagnostiquer les problèmes et surveiller les tendances</string>
+    <string name="analytics_opted_out_desc">GTKH ne collecte aucune information d\'analysen</string>
     <string name="analytics_opt_out_success">Les données analytiques sont supprimées et ne sont plus enregistrées!</string>
     <string name="analytics_opt_in_success">Les données analytiques sont à nouveau enregistrées!</string>
-    <string name="backup_channel_name">Problèmes de sauvegarde automatique de Presently</string>
+    <string name="backup_channel_name">Problèmes de sauvegarde automatique de GTKH</string>
     <string name="backup_channel_description">Notifications pour les problèmes avec la sauvegarde automatique</string>
-    <string name="backup_failure_notif_header">Échec de la sauvegarde automatique de Presently</string>
-    <string name="dropbox_too_full_notif_body">Presently n\'a pas réussi à sauvegarder vos données car votre Dropbox est pleine. Appuyez pour afficher votre compte Dropbox</string>
+    <string name="backup_failure_notif_header">Échec de la sauvegarde automatique de GTKH</string>
+    <string name="dropbox_too_full_notif_body">GTKH n\'a pas réussi à sauvegarder vos données car votre Dropbox est pleine. Appuyez pour afficher votre compte Dropbox</string>
     <string name="dropbox_sync_error_notif_body">Il y a eu un problème avec votre compte Dropbox, cliquez ici pour vous reconnecter à Dropbox et reprendre les sauvegardes automatiques.</string>
     <string name="learn_more">Apprendre encore plus</string>
 </resources>

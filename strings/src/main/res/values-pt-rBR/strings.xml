@@ -5,13 +5,13 @@
     <string name="what_are_you_thankful_for_yesterday">O que te deixou grato/a ontem?</string>
     <string name="notification_settings">Configurações</string>
     <string name="privacy_policy">Política de Privacidade</string>
-    <string name="read_privacy">Leia a política de privacidade do Presently</string>
+    <string name="read_privacy">Leia a política de privacidade do GTKH</string>
     <string name="faq">FAQ</string>
-    <string name="read_faq">Leia o FAQ do Presently</string>
+    <string name="read_faq">Leia o FAQ do GTKH</string>
     <string name="contact_us">Contato</string>
     <string name="terms_conditions">Termos &amp; Condições</string>
     <string name="read_tc">Leia nossos termos &amp; e condições</string>
-    <string name="channel_name">Lembrete do Presently</string>
+    <string name="channel_name">Lembrete do GTKH</string>
     <string name="channel_description">Lembretes diários para anotar o que te deixa grato/a</string>
     <string name="today">Hoje</string>
     <string name="yesterday">Ontem</string>
@@ -29,21 +29,21 @@
     <string name="error_creating_csv_file">Erro ao criar arquivo CSV no dispositivo</string>
     <string name="days_of_gratitude">dias de gratidão!</string>
     <string name="days_of">dias de gratidão</string>
-    <string name="rate_presently">Avalie o Presently</string>
+    <string name="rate_presently">Avalie o GTKH</string>
     <string name="share_your_achievement">Compartilhe sua conquita</string>
     <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-        Parabéns! Estamos muito orgulhosos de você e muito gratos por você escolher o Presently para guardar sua gratidão.  </string>
+        Parabéns! Estamos muito orgulhosos de você e muito gratos por você escolher o GTKH para guardar sua gratidão.  </string>
     <string name="search">Busca</string>
     <string name="close">Fechar</string>
     <string name="get_a_new_prompt">Abrir uma janela</string>
     <string name="share_your_gratitude">Compartilhe sua gratidão</string>
     <string name="no_results">Nenhum resultado</string>
     <string name="settings">Configurações</string>
-    <string name="reminder_title">Lembrete de Gratidão do Presently</string>
+    <string name="reminder_title">Lembrete de Gratidão do GTKH</string>
     <string name="share_progress">Compartilhe o progresso da sua gratidão</string>
     <string name="change_time">Mude o horário do seu lembrete diário</string>
     <string name="time_title">Ajuste as Notificações do Lembrete</string>
-    <string name="theme_change">Mude o tema do Presently</string>
+    <string name="theme_change">Mude o tema do GTKH</string>
     <string name="notifs_off">Lembrete diário desligado</string>
     <string name="notifs_on">Lembrete diário ligado</string>
     <string name="notifs">Lembretes Diários</string>
@@ -60,10 +60,10 @@
     <string name="no_app_found">Nenhum aplicativo encontrado para abrir este arquivo</string>
     <string name="copied">Copiado na memória</string>
     <string name="security">Segurança</string>
-    <string name="lock_title">Desbloquear o Presently</string>
-    <string name="lock_summary">Presently está bloqueado, desbloqueie para continuar</string>
-    <string name="lock_setting_summary_on">Presently irá se bloquear com o leitor biométrico do seu aparelho</string>
-    <string name="lock_setting_summary_off">Presently pode se bloquear com o leitor biométrico do seu aparelho scanner (caso seu aparelho tenha um).</string>
+    <string name="lock_title">Desbloquear o GTKH</string>
+    <string name="lock_summary">GTKH está bloqueado, desbloqueie para continuar</string>
+    <string name="lock_setting_summary_on">GTKH irá se bloquear com o leitor biométrico do seu aparelho</string>
+    <string name="lock_setting_summary_off">GTKH pode se bloquear com o leitor biométrico do seu aparelho scanner (caso seu aparelho tenha um).</string>
     <string name="fingerprint_error_lockout_too_many">Muitas tentativas de autenticação biométrica. Por favor tente novamente em alguns minutos</string>
     <string name="continue_to_exit">Continuar</string>
     <string name="are_you_sure">Você tem certeza que quer voltar?</string>
@@ -90,9 +90,9 @@
     <string name="monday">Segunda-feira</string>
     <string name="day_of_week_summary">Defina o primeiro dia da semana na exibição do calendário</string>
     <string name="first_day_of_week_title">Primeiro dia da semana</string>
-    <string name="share_milestone">Eu completei %1$d dias de journaling gratidão! Junte-me usando o Atualmente App. #PresentlyApp</string>
-    <string name="share_presently">Compartilhe Presently</string>
-    <string name="enjoying_presently">Desfrutando Presently? Compartilhar o aplicativo com seus amigos e familiares</string>
+    <string name="share_milestone">Eu completei %1$d dias de journaling gratidão! Junte-me usando o Atualmente App. #GTKHApp</string>
+    <string name="share_presently">Compartilhe GTKH</string>
+    <string name="enjoying_presently">Desfrutando GTKH? Compartilhar o aplicativo com seus amigos e familiares</string>
     <string name="share_app_text">gratidão prática com este simples, sempre livre, e gratidão privada aplicativo diário</string>
     <string name="random">Aleatória</string>
     <string name="app_language_title">Linguagem do aplicativo</string>
@@ -108,10 +108,10 @@
     <string name="analytics_opted_out_desc">O aplicativo não está coletando nenhuma informação de análise</string>
     <string name="analytics_opt_out_success">Os dados analíticos são excluídos e não são mais registrados!</string>
     <string name="analytics_opt_in_success">Os dados do Analytics estão sendo registrados novamente!</string>
-    <string name="backup_channel_name">Problemas de backup automático da Presently</string>
+    <string name="backup_channel_name">Problemas de backup automático da GTKH</string>
     <string name="backup_channel_description">Notificações para problemas com backup automático</string>
-    <string name="backup_failure_notif_header">Falha de backup automático de Presently</string>
-    <string name="dropbox_too_full_notif_body">Presently não conseguiu fazer backup de seus dados porque seu Dropbox está cheio. Toque para ver sua conta do Dropbox</string>
+    <string name="backup_failure_notif_header">Falha de backup automático de GTKH</string>
+    <string name="dropbox_too_full_notif_body">GTKH não conseguiu fazer backup de seus dados porque seu Dropbox está cheio. Toque para ver sua conta do Dropbox</string>
     <string name="dropbox_sync_error_notif_body">Ocorreu um problema com sua conta do Dropbox, clique aqui para se reconectar ao Dropbox e retomar os backups automáticos.</string>
     <string name="learn_more">Saber mais</string>
 </resources>

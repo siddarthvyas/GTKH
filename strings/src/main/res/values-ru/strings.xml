@@ -5,13 +5,13 @@
     <string name="what_are_you_thankful_for_yesterday">За что вы были благодарны вчера?</string>
     <string name="notification_settings">Настройки</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
-    <string name="read_privacy">Ознакомьтесь с политикой конфиденциальности Presently</string>
+    <string name="read_privacy">Ознакомьтесь с политикой конфиденциальности GTKH</string>
     <string name="faq">FAQ</string>
-    <string name="read_faq">Часто задаваемые вопросы о Presently</string>
+    <string name="read_faq">Часто задаваемые вопросы о GTKH</string>
     <string name="contact_us">Связаться с нами</string>
     <string name="terms_conditions">Условия использования</string>
-    <string name="read_tc">Ознакомьтесь с условиями использования Presently</string>
-    <string name="channel_name">Напоминания от Presently</string>
+    <string name="read_tc">Ознакомьтесь с условиями использования GTKH</string>
+    <string name="channel_name">Напоминания от GTKH</string>
     <string name="channel_description">Ежедневные напоминания записать то, за что вы благодарны</string>
     <string name="today">Сегодня</string>
     <string name="yesterday">Вчера</string>
@@ -28,10 +28,10 @@
     <string name="import_data_dialog_message">Импортированные записи могут перезаписать существующие.</string>
     <string name="days_of_gratitude">дней благодарности!</string>
     <string name="days_of">дней благодарности</string>
-    <string name="rate_presently">Оценить Presently</string>
+    <string name="rate_presently">Оценить GTKH</string>
     <string name="share_your_achievement">Поделитесь вашим достижением</string>
     <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-        Поздравляем! Мы гордимся вами и хотим сказать спасибо за то, что вы выбрали Presently в качестве своего дневника благодарности.
+        Поздравляем! Мы гордимся вами и хотим сказать спасибо за то, что вы выбрали GTKH в качестве своего дневника благодарности.
     </string>
     <string name="search">Поиск</string>
     <string name="close">Закрыть</string>
@@ -39,11 +39,11 @@
     <string name="share_your_gratitude">Поделитесь свой благодарностью</string>
     <string name="no_results">Ничего не найдено</string>
     <string name="settings">Настройки</string>
-    <string name="reminder_title">Напоминание записать благодарность от Presently</string>
+    <string name="reminder_title">Напоминание записать благодарность от GTKH</string>
     <string name="share_progress">Поделитесь своим прогрессом</string>
     <string name="change_time">Задать время для ежедневных напоминаний</string>
     <string name="time_title">Время уведомлений</string>
-    <string name="theme_change">Выберете тему для Presently</string>
+    <string name="theme_change">Выберете тему для GTKH</string>
     <string name="notifs_off">Ежедневные напоминания отключены</string>
     <string name="notifs_on">Ежедневные напоминания включены</string>
     <string name="notifs">Ежедневные напоминания</string>
@@ -91,8 +91,8 @@
     <string name="monday">понедельник</string>
     <string name="day_of_week_summary">Установите первый день недели в представлении календаря</string>
     <string name="first_day_of_week_title">Воскресенье</string>
-    <string name="share_milestone">Я закончил %1$d дней благодарственных журнальный! Присоединяйтесь ко мне, используя в настоящее время приложения. #PresentlyApp</string>
-    <string name="share_presently">доля Presently</string>
+    <string name="share_milestone">Я закончил %1$d дней благодарственных журнальный! Присоединяйтесь ко мне, используя в настоящее время приложения. #GTKHApp</string>
+    <string name="share_presently">доля GTKH</string>
     <string name="enjoying_presently">Нравится приложение? Поделитесь приложением с друзьями и семьей</string>
     <string name="share_app_text">Практика благодарность с этим простым, всегда бесплатно, и частной благодарностью журнального приложение</string>
     <string name="random">случайный</string>
@@ -109,10 +109,10 @@
     <string name="analytics_opted_out_desc">Приложение не собирает аналитическую информацию</string>
     <string name="analytics_opt_out_success">Данные аналитики удаляются и больше не записываются!</string>
     <string name="analytics_opt_in_success">Данные аналитики снова записываются!</string>
-    <string name="backup_channel_name">Проблемы с автоматическим резервным копированием Presently</string>
+    <string name="backup_channel_name">Проблемы с автоматическим резервным копированием GTKH</string>
     <string name="backup_channel_description">Уведомления о проблемах с автоматическим резервным копированием</string>
-    <string name="backup_failure_notif_header">Ошибка автоматического резервного копирования Presently</string>
-    <string name="dropbox_too_full_notif_body">Presently не удалось создать резервную копию ваших данных, потому что ваш Dropbox заполнен. Нажмите, чтобы просмотреть свою учетную запись Dropbox.</string>
+    <string name="backup_failure_notif_header">Ошибка автоматического резервного копирования GTKH</string>
+    <string name="dropbox_too_full_notif_body">GTKH не удалось создать резервную копию ваших данных, потому что ваш Dropbox заполнен. Нажмите, чтобы просмотреть свою учетную запись Dropbox.</string>
     <string name="dropbox_sync_error_notif_body">Возникла проблема с вашей учетной записью Dropbox. Нажмите здесь, чтобы повторно подключиться к Dropbox и возобновить автоматическое резервное копирование.</string>
     <string name="learn_more">Выучить больше</string>
 </resources>

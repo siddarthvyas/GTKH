@@ -3,9 +3,9 @@
     <!--Original Theme-->
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="originalTimelineColor">#000000</color>
-    <color name="originalHintTextColor">#79736a</color>
-    <color name="originalBackgroundColor">#dbd1c7</color>
+    <color name="originalTimelineColor">#C2185B</color>
+    <color name="originalHintTextColor">#C795AE</color>
+    <color name="originalBackgroundColor">#FFE9F2</color>
 
     <!-- ~~~~SUNSET THEME~~~~ -->
     <color name="sunsetAndroidWidgetColor">#A47272</color>

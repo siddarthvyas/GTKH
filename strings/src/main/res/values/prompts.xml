@@ -1,49 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prompts">
-            <item>What is something that made you smile?</item>
-            <item>What is something to be grateful for in this room?</item>
-            <item>What makes you happy to be alive?</item>
-            <item>Who is someone that helped you?</item>
-            <item>Who is someone that has mentored you?</item>
-            <item>Who is someone that taught you something?</item>
-            <item>Who is someone that you love?</item>
-            <item>Who is someone that loves you?</item>
-            <item>Who is a friend that you are grateful for?</item>
-            <item>What in nature are you grateful for?</item>
-            <item>What talent or skill are you grateful for?</item>
-            <item>What memory are you grateful for?</item>
-            <item>Did someone help you on this day?</item>
-            <item>What made you feel happy on this day?</item>
-            <item>What are you proud of yourself for?</item>
-            <item>What about your upbringing are you thankful for?</item>
-            <item>What about your career or work are you grateful for?</item>
-            <item>What freedoms are you grateful for?</item>
-            <item>What is something that made you laugh?</item>
-            <item>What is one thing you are grateful for about yourself?</item>
-            <item>What was the most beautiful thing you saw on this day?</item>
-            <item>What book are you grateful for?</item>
-            <item>What song or music are you grateful for?</item>
-            <item>What is something that makes your life easier?</item>
-            <item>What is something that always cheers you up?</item>
-            <item>Who inspires you?</item>
-            <item>What technology or tool are you grateful for?</item>
-            <item>What opportunity are you grateful for?</item>
-            <item>What is something about your body or your health that you are grateful for?</item>
-            <item>What place are you grateful for?</item>
-            <item>What smell are you grateful for?</item>
-            <item>What taste are you grateful for?</item>
-            <item>What knowledge are you grateful for?</item>
-            <item>What is a simple pleasure you\'re grateful for?</item>
-            <item>What hobbies are you grateful for?</item>
-            <item>What sound are you grateful for?</item>
-            <item>What small thing are you grateful for?</item>
-            <item>What is something you are grateful to have learned?</item>
-            <item>What are you grateful for in your city or town?</item>
-            <item>What are you grateful for about your home?</item>
-            <item>What advice are you grateful to have heard?</item>
-            <item>What are you grateful for about your family?</item>
-            <item>What are you grateful for about the current season?</item>
-            <item>What activity are you grateful for?</item>
+            <item>What made you smile today?</item>
+            <item>What was the best part of your day?</item>
+            <item>What small win did you have today?</item>
+            <item>Who made your day a little better?</item>
+            <item>What surprised you in a good way?</item>
+            <item>What delicious thing did you eat or drink?</item>
+            <item>What made you laugh today?</item>
+            <item>What compliment did you get — or give?</item>
+            <item>What went better than you expected?</item>
+            <item>What cute or lovely thing did you see today?</item>
+            <item>What treat did you enjoy today?</item>
+            <item>What song made today better?</item>
+            <item>Did a stranger do something kind?</item>
+            <item>What did you do today that you\'re proud of?</item>
+            <item>What good news did you get recently?</item>
+            <item>What cozy moment did you have today?</item>
+            <item>What made you feel loved today?</item>
+            <item>What little luxury did you enjoy?</item>
+            <item>What beautiful thing did you notice today?</item>
+            <item>What are you excited about right now?</item>
+            <item>What went right today?</item>
+            <item>What conversation left you feeling good?</item>
+            <item>What did you get done that felt great?</item>
+            <item>What made you feel like yourself today?</item>
+            <item>What good thing almost went unnoticed today?</item>
+            <item>Who were you happy to hear from?</item>
+            <item>What moment today would make a good photo?</item>
+            <item>What did you enjoy about the weather or the season?</item>
+            <item>What place made you feel good today?</item>
+            <item>What made you feel taken care of?</item>
+            <item>What are you looking forward to tomorrow?</item>
+            <item>What good habit did you keep up today?</item>
+            <item>What made you proud of someone else?</item>
+            <item>What tiny detail made today sweeter?</item>
+            <item>What felt easier today than it used to?</item>
+            <item>What kindness did you give away today?</item>
+            <item>What good thing happened that you didn\'t plan?</item>
+            <item>What made you feel lucky today?</item>
+            <item>What do you want to remember about today?</item>
+            <item>What little joy would you tell your best friend about?</item>
     </string-array>
 </resources>

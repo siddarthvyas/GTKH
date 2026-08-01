@@ -6,15 +6,15 @@
     <string name="what_are_you_thankful_for_yesterday">Dün ne için minnettardın?</string>
     <string name="notification_settings">Ayarlar</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
-    <string name="share_presently">Presently\'yi Paylaş</string>
-    <string name="enjoying_presently">Presently\'yi beğendin mi? Uygulamayı ailen ve arkadaşlarınla paylaş</string>
-    <string name="read_privacy">Presently\'nin gizlilik politikasını oku</string>
+    <string name="share_presently">GTKH\'yi Paylaş</string>
+    <string name="enjoying_presently">GTKH\'yi beğendin mi? Uygulamayı ailen ve arkadaşlarınla paylaş</string>
+    <string name="read_privacy">GTKH\'nin gizlilik politikasını oku</string>
     <string name="faq">SSS</string>
-    <string name="read_faq">Presently\'nin sıkça sorulan sorularını oku</string>
+    <string name="read_faq">GTKH\'nin sıkça sorulan sorularını oku</string>
     <string name="contact_us">İletişime geç</string>
     <string name="terms_conditions">Şartlar &amp; Koşullar</string>
     <string name="read_tc">Şartlar &amp; Koşullarımızı oku</string>
-    <string name="channel_name">Presently Hatırlatıcısı</string>
+    <string name="channel_name">GTKH Hatırlatıcısı</string>
     <string name="channel_description">Neye minnet duyduğuna dikkatini çekmek için günlük hatırlatıcı</string>
     <string name="today">Bugün</string>
     <string name="yesterday">Dün</string>
@@ -31,19 +31,19 @@
     <string name="import_data_dialog_message">İçe aktarılan veriler mevcut yazıların üzerine yazılabilir.</string>
     <string name="days_of_gratitude">minnettarlık günü!</string>
     <string name="days_of">minnettarlık günü</string>
-    <string name="rate_presently">Presently\'yi oyla</string>
+    <string name="rate_presently">GTKH\'yi oyla</string>
     <string name="share_your_achievement">Başarını paylaş</string>
     <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-        Tebrikler! Seninle gurur duyuyoruz ve minnettarlığını kaydetmek için Presently\'i seçtiğin için minnettarız.
+        Tebrikler! Seninle gurur duyuyoruz ve minnettarlığını kaydetmek için GTKH\'i seçtiğin için minnettarız.
     </string>
     <string name="search">Ara</string>
-    <string name="presently" translatable="false">Presently</string>
+    <string name="presently" translatable="false">GTKH</string>
     <string name="close">Kapat</string>
     <string name="get_a_new_prompt">Yardım al</string>
     <string name="share_your_gratitude">Minnettarlığını paylaş</string>
     <string name="no_results">Sonuç yok</string>
     <string name="settings">Ayarlar</string>
-    <string name="reminder_title">Presently Minnettarlık Hatırlatıcısı</string>
+    <string name="reminder_title">GTKH Minnettarlık Hatırlatıcısı</string>
     <string name="share_progress">Minnettarlık ilerlemeni paylaş</string>
     <string name="change_time">Günlük hatırlatma saatini değiştir</string>
     <string name="time_title">Hatırlatma Bildirimlerini Ayarla</string>
@@ -65,10 +65,10 @@
     <string name="no_app_found">Bu dosyayı açacak uygulama bulunamadı</string>
     <string name="copied">Panoya kopyalandı</string>
     <string name="security">Güvenlik</string>
-    <string name="lock_title">Presently\'yi aç</string>
-    <string name="lock_summary">Presently kilitli, devam etmek için kilidi aç</string>
-    <string name="lock_setting_summary_on">Presently cihazının biyometrik tarayıcısı ile kilitlenecek.</string>
-    <string name="lock_setting_summary_off">Presently cihazının biyometrik tarayıcısı ile kilitlenebilir (cihazın destekliyorsa).</string>
+    <string name="lock_title">GTKH\'yi aç</string>
+    <string name="lock_summary">GTKH kilitli, devam etmek için kilidi aç</string>
+    <string name="lock_setting_summary_on">GTKH cihazının biyometrik tarayıcısı ile kilitlenecek.</string>
+    <string name="lock_setting_summary_off">GTKH cihazının biyometrik tarayıcısı ile kilitlenebilir (cihazın destekliyorsa).</string>
     <string name="fingerprint_error_lockout_too_many">Çok fazla biyometrik kimlik doğrulama denemesi. Lütfen birkaç dakika içinde tekrar deneyin.</string>
     <string name="continue_to_exit">Devam et</string>
     <string name="are_you_sure">Geri dönmek istediğine emin misin?</string>
@@ -95,7 +95,7 @@
     <string name="monday">Pazartesi</string>
     <string name="day_of_week_summary">Haftanın ilk gününü takvimde ayarla</string>
     <string name="first_day_of_week_title">Haftanın ilk günü</string>
-    <string name="share_milestone">%1$d günlük minnettarlık günlüğünü tamamladım! Presently uygulamasını kullanarak bana katıl. #PresentlyApp</string>
+    <string name="share_milestone">%1$d günlük minnettarlık günlüğünü tamamladım! GTKH uygulamasını kullanarak bana katıl. #GTKHApp</string>
     <string name="share_app_text">Basit, her zaman ücretsiz ve kişisel minnettarlık günlüğü uygulamasıyla minnet duygunu geliştir</string>
     <string name="app_language_title">Uygulama dili</string>
     <string name="app_language_summary">Varsayılan uygulama dilini ayarlayın</string>
@@ -110,10 +110,10 @@
     <string name="analytics_opted_out_desc">Uygulama herhangi bir analiz bilgisi toplamıyor</string>
     <string name="analytics_opt_out_success">Analiz verileri silinir ve artık kaydedilmez!</string>
     <string name="analytics_opt_in_success">Analitik verileri yeniden kaydediliyor!</string>
-    <string name="backup_channel_name">Presently Otomatik Yedekleme Sorunları</string>
+    <string name="backup_channel_name">GTKH Otomatik Yedekleme Sorunları</string>
     <string name="backup_channel_description">Otomatik yedekleme ile ilgili sorunlar için bildirimler</string>
-    <string name="backup_failure_notif_header">Presently Otomatik Yedekleme Hatası</string>
-    <string name="dropbox_too_full_notif_body">Presently, Dropbox\'ınız dolu olduğu için verilerinizi yedekleyemedi. Dropbox hesabınızı görüntülemek için dokunun</string>
+    <string name="backup_failure_notif_header">GTKH Otomatik Yedekleme Hatası</string>
+    <string name="dropbox_too_full_notif_body">GTKH, Dropbox\'ınız dolu olduğu için verilerinizi yedekleyemedi. Dropbox hesabınızı görüntülemek için dokunun</string>
     <string name="dropbox_sync_error_notif_body">Dropbox hesabınızla ilgili bir sorun oluştu, otomatik yedeklemeleri sürdürmek üzere Dropbox\'a yeniden bağlanmak için burayı tıklayın.</string>
     <string name="learn_more">Daha fazla bilgi edin</string>
 </resources>

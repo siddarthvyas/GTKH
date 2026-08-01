@@ -42,10 +42,22 @@ android {
         viewBinding = true
     }
 
+    signingConfigs {
+        create("gtkh") {
+            storeFile = rootProject.file("gtkh-debug.keystore")
+            storePassword = "gtkh-journal"
+            keyAlias = "gtkh"
+            keyPassword = "gtkh-journal"
+        }
+    }
+
     buildTypes {
         getByName("debug") {
             isTestCoverageEnabled = project.hasProperty("coverage")
             versionNameSuffix = "-DEBUG"
+            if (rootProject.file("gtkh-debug.keystore").exists()) {
+                signingConfig = signingConfigs.getByName("gtkh")
+            }
         }
         getByName("release") {
             isMinifyEnabled = false

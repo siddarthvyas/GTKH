@@ -5,15 +5,15 @@
     <string name="what_are_you_thankful_for_yesterday">Pentru ce ai fost recunoscător ieri?</string>
     <string name="notification_settings">Setări</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
-    <string name="share_presently">Distribuie Presently</string>
-    <string name="enjoying_presently">Ți-a plăcut Presently? Distribuie aplicația cu prietenii și familia ta</string>
+    <string name="share_presently">Distribuie GTKH</string>
+    <string name="enjoying_presently">Ți-a plăcut GTKH? Distribuie aplicația cu prietenii și familia ta</string>
     <string name="read_privacy">Citește politica de confidențialitate</string>
     <string name="faq">Întrebări frecvente</string>
     <string name="read_faq">Citește întrebările frecvente</string>
     <string name="contact_us">Contactează-ne</string>
     <string name="terms_conditions">Termeni &amp; Condiții</string>
     <string name="read_tc">Citește termenii &amp; condițiile</string>
-    <string name="channel_name">Presently Reminder</string>
+    <string name="channel_name">GTKH Reminder</string>
     <string name="channel_description">Îți reamintim zilnic să îți notezi pentru ceea ce ești recunscator</string>
     <string name="today">Astăzi</string>
     <string name="yesterday">Ieri</string>
@@ -30,19 +30,19 @@
     <string name="import_data_dialog_message">Datele importate pot suprascrie datele existente.</string>
     <string name="days_of_gratitude">zile de recunoștință!</string>
     <string name="days_of">zile de</string>
-    <string name="rate_presently">Evaluează Presently</string>
+    <string name="rate_presently">Evaluează GTKH</string>
     <string name="share_your_achievement">Împărtășește-ți realizările</string>
     <string name="congratulations_we_re_so_proud_of_you_and_so_grateful_you_chose_presently_to_record_your_gratitude">
-        Felicitări! Suntem atât de mândri de tine și atât de recunoscători că ai ales Presently pentru a-ți exprima recunoștința.
+        Felicitări! Suntem atât de mândri de tine și atât de recunoscători că ai ales GTKH pentru a-ți exprima recunoștința.
     </string>
     <string name="search">Caută</string>
-    <string name="presently" translatable="false">Presently</string>
+    <string name="presently" translatable="false">GTKH</string>
     <string name="close">Închide</string>
     <string name="get_a_new_prompt">Primește un indiciu</string>
     <string name="share_your_gratitude">Împărtășește-ți recunoștința</string>
     <string name="no_results">Fără rezultate</string>
     <string name="settings">Setări</string>
-    <string name="reminder_title">Presently Gratitude Reminder</string>
+    <string name="reminder_title">GTKH Gratitude Reminder</string>
     <string name="share_progress">Împărtășește-ți progresul</string>
     <string name="change_time">Schimbă ora de reamintire zilnică</string>
     <string name="time_title">Modifică setările de reamintire zilnică</string>
@@ -64,7 +64,7 @@
     <string name="no_app_found">Nu a fost găsită nicio aplicație care să deschidă acest fișier</string>
     <string name="copied">Copiat în clipboard</string>
     <string name="security">Secuitate</string>
-    <string name="lock_title">Deblochează Presently</string>
+    <string name="lock_title">Deblochează GTKH</string>
     <string name="lock_summary">Aplicația este blocată, deblocați pentru a continua</string>
     <string name="lock_setting_summary_on">Aplicația se va debloca folosind amprenta digitală.</string>
     <string name="lock_setting_summary_off">Aplicația se poate debloca folosind amprenta digitală (dacă este suportată de dispozitiv).</string>
@@ -97,7 +97,7 @@
     <string name="app_language_title">Limbajul aplicației</string>
     <string name="app_language_summary">Setați limba implicită a aplicației</string>
     <string name="random">Aleatoriu</string>
-    <string name="share_milestone">Am completat %1$d zile din jurnalul recunoștinței! Alătură-te mie folosind aplicația Presently. #PresentlyApp</string>
+    <string name="share_milestone">Am completat %1$d zile din jurnalul recunoștinței! Alătură-te mie folosind aplicația GTKH. #GTKHApp</string>
     <string name="share_app_text">Practică recunoștința cu această aplicație simplă, întotdeauna gratuită și privată de jurnal al recunoștinței</string>
     <string name="loading_lang">Încărcare va rugam asteptati</string>
     <string name="show_quote_off">Citatele de recunoștință nu vor fi afișate pe pagina de intrare</string>
@@ -110,10 +110,10 @@
     <string name="analytics_opted_out_desc">Aplicația nu colectează informații de analiză</string>
     <string name="analytics_opt_out_success">Datele statistice sunt șterse și nu mai sunt înregistrate!</string>
     <string name="analytics_opt_in_success">Datele statistice sunt din nou înregistrate!</string>
-    <string name="backup_channel_name">Probleme de backup automat Presently</string>
+    <string name="backup_channel_name">Probleme de backup automat GTKH</string>
     <string name="backup_channel_description">Notificări pentru probleme cu backup automat</string>
-    <string name="backup_failure_notif_header">Eroare de backup automat Presently</string>
-    <string name="dropbox_too_full_notif_body">Presently nu a reușit să vă copieze datele deoarece Dropbox-ul este plin. Atingeți pentru a vedea contul dvs. Dropbox.</string>
+    <string name="backup_failure_notif_header">Eroare de backup automat GTKH</string>
+    <string name="dropbox_too_full_notif_body">GTKH nu a reușit să vă copieze datele deoarece Dropbox-ul este plin. Atingeți pentru a vedea contul dvs. Dropbox.</string>
     <string name="dropbox_sync_error_notif_body">A apărut o problemă cu contul dvs. Dropbox, faceți clic aici pentru a vă reconecta la Dropbox pentru a relua backup-urile automate.</string>
     <string name="learn_more">Află mai multe</string>
 </resources>
