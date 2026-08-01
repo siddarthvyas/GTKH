@@ -18,4 +18,35 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent" />
 
+    <FrameLayout
+        android:id="@+id/gtkh_splash"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#0F0B1C"
+        android:clickable="true"
+        android:elevation="30dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/gtkh_splash_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:letterSpacing="0.12"
+            android:lineSpacingExtra="10dp"
+            android:paddingLeft="36dp"
+            android:paddingRight="36dp"
+            android:shadowColor="#FF2E88"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="12"
+            android:textColor="#FF6FB1"
+            android:textSize="28sp" />
+    </FrameLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

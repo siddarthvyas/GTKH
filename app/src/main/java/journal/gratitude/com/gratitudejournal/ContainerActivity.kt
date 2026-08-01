@@ -1,12 +1,17 @@
 package journal.gratitude.com.gratitudejournal
 
+import android.animation.ValueAnimator
 import android.app.Activity
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.content.Context
 import android.content.res.Configuration
+import android.graphics.Color
 import android.os.Build
 import android.os.Bundle
+import android.view.View
+import android.view.animation.LinearInterpolator
+import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.WindowCompat
 import com.google.android.gms.common.ConnectionResult
@@ -59,6 +64,10 @@ class ContainerActivity : AppCompatActivity() {
         }
 
         NotificationScheduler().configureNotifications(this, settings)
+
+        if (savedInstanceState == null) {
+            playSplashAnimation()
+        }
 
         if (resources.configuration.orientation != Configuration.ORIENTATION_LANDSCAPE) {
             //lays app behind system bars
@@ -123,8 +132,50 @@ class ContainerActivity : AppCompatActivity() {
         }
     }
 
+    private fun playSplashAnimation() {
+        val splash = findViewById<View>(R.id.gtkh_splash)
+        val splashText = findViewById<TextView>(R.id.gtkh_splash_text)
+        val motto = getString(R.string.splash_motto)
+        val neonPink = Color.parseColor("#FF2E88")
+
+        splashText.text = ""
+        splash.alpha = 1f
+        splash.visibility = View.VISIBLE
+
+        val typewriter = ValueAnimator.ofInt(0, motto.length)
+        typewriter.duration = 1500
+        typewriter.startDelay = 250
+        typewriter.interpolator = LinearInterpolator()
+        typewriter.addUpdateListener { animation ->
+            splashText.text = motto.substring(0, animation.animatedValue as Int)
+        }
+
+        val glow = ValueAnimator.ofFloat(8f, 24f)
+        glow.duration = 900
+        glow.repeatCount = ValueAnimator.INFINITE
+        glow.repeatMode = ValueAnimator.REVERSE
+        glow.addUpdateListener { animation ->
+            splashText.setShadowLayer(animation.animatedValue as Float, 0f, 0f, neonPink)
+        }
+
+        typewriter.start()
+        glow.start()
+
+        splash.postDelayed({
+            splash.animate()
+                .alpha(0f)
+                .setDuration(500)
+                .withEndAction {
+                    glow.cancel()
+                    splash.visibility = View.GONE
+                }
+                .start()
+        }, 2300)
+    }
+
     private fun setAppTheme(currentTheme: String) {
         when (currentTheme) {
+            "Tokyo" -> setTheme(R.style.AppTheme_TOKYO)
             "Sunset" -> setTheme(R.style.AppTheme_SUNSET)
             "Moonlight" -> setTheme(R.style.AppTheme_MOONLIGHT)
             "Midnight" -> setTheme(R.style.AppTheme_MIDNIGHT)

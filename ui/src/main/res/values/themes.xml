@@ -14,7 +14,7 @@
         <item name="snackbarButtonStyle">@style/snackbar_button</item>
 
         <!--   Colors for the Timeline screen    -->
-        <item name="timelineIcon">@drawable/ic_flower</item>
+        <item name="timelineIcon">@drawable/ic_smile</item>
         <item name="timelineBackgroundColor">@color/originalBackgroundColor</item>
         <item name="timelineLineColor">@color/originalTimelineColor</item>
         <item name="timelineHeaderColor">@color/originalTimelineColor</item>
@@ -37,6 +37,21 @@
         <item name="highlightColor">@color/originalTimelineColor</item>
         <item name="fontFamily">@font/larsseit_medium</item>
         <item name="android:fontFamily">@font/larsseit_medium</item>
+    </style>
+
+    <style name="AppTheme.TOKYO" parent="AppTheme">
+        <item name="timelineIcon">@drawable/ic_smile</item>
+        <item name="timelineLineColor">@color/tokyoTimelineColor</item>
+        <item name="timelineBackgroundColor">@color/tokyoBackgroundColor</item>
+        <item name="timelineHintColor">@color/tokyoHintQuoteTextColor</item>
+        <item name="toolbarColor">@color/tokyoToolbarColor</item>
+        <item name="toolbarItemColor">@color/tokyoToolbarItemColor</item>
+        <item name="statusBarColor">@color/tokyoStatusBarColor</item>
+        <item name="timelineHeaderColor">@color/tokyoTimelineColor</item>
+        <item name="timelineBodyColor">@color/tokyoMainTextAndButtonColor</item>
+        <item name="entryHeaderColor">@color/tokyoTimelineColor</item>
+        <item name="entryBodyColor">@color/tokyoMainTextAndButtonColor</item>
+        <item name="highlightColor">@color/tokyoAndroidWidgetColor</item>
     </style>
 
     <style name="AppTheme.SUNSET" parent="AppTheme">

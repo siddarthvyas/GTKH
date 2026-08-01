@@ -78,6 +78,14 @@ class ThemeFragment : Fragment() {
 
         val themeList: List<Theme> = listOf(
             Theme(
+                "Tokyo",
+                ContextCompat.getColor(requireContext(), R.color.tokyoToolbarColor),
+                ContextCompat.getColor(requireContext(), R.color.tokyoBackgroundColor),
+                ContextCompat.getColor(requireContext(), R.color.tokyoToolbarItemColor),
+                ContextCompat.getColor(requireContext(), R.color.tokyoTimelineColor),
+                R.drawable.ic_smile
+            ),
+            Theme(
                 "Original",
                 ContextCompat.getColor(requireContext(), R.color.originalTimelineColor),
                 ContextCompat.getColor(requireContext(), R.color.originalBackgroundColor),

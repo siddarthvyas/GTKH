@@ -7,6 +7,16 @@
     <color name="originalHintTextColor">#C795AE</color>
     <color name="originalBackgroundColor">#FFE9F2</color>
 
+    <!-- ~~~~TOKYO THEME~~~~ -->
+    <color name="tokyoTimelineColor">#FF2E88</color>
+    <color name="tokyoBackgroundColor">#171226</color>
+    <color name="tokyoHintQuoteTextColor">#8E7BA8</color>
+    <color name="tokyoToolbarColor">#1F1833</color>
+    <color name="tokyoToolbarItemColor">#FF2E88</color>
+    <color name="tokyoStatusBarColor">#0F0B1C</color>
+    <color name="tokyoMainTextAndButtonColor">#F3E9FF</color>
+    <color name="tokyoAndroidWidgetColor">#FF2E88</color>
+
     <!-- ~~~~SUNSET THEME~~~~ -->
     <color name="sunsetAndroidWidgetColor">#A47272</color>
     <color name="sunsetBackgroundColor">#303030</color>

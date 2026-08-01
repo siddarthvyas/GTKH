@@ -19,7 +19,7 @@ class RealPresentlySettings @Inject constructor(
 ) : PresentlySettings {
 
     override fun getCurrentTheme(): String {
-        return sharedPrefs.getString(THEME_PREF, "original") ?: "original"
+        return sharedPrefs.getString(THEME_PREF, "Tokyo") ?: "Tokyo"
     }
 
     override fun setTheme(themeName: String) {
